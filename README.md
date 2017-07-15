@@ -1,2 +1,2 @@
-# aravinth-
+# aravinth
 For study JavaScript
